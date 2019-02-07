@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "135311354329",
+    "firebase_url": "https://instagramunfollowpro.firebaseio.com",
+    "project_id": "instagramunfollowpro",
+    "storage_bucket": "instagramunfollowpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135311354329:android:7bd0a0daae41d8e3",
+        "android_client_info": {
+          "package_name": "com.it_tech613.zhe.instagramunfollowpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135311354329-dndc2ahfqnp27hp7rm45k1670v52q25o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.it_tech613.zhe.instagramunfollowpro",
+            "certificate_hash": "058d19609c51e73cf351553eb6ba6b3e465b5cc4"
+          }
+        },
+        {
+          "client_id": "135311354329-qda1fq8rvfglsu88onpj9hs3e3eei3bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKifEI4E4wnGe8o_yCTw5CyHHobGxpGVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135311354329-qda1fq8rvfglsu88onpj9hs3e3eei3bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
